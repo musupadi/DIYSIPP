@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">DIY SIPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="periode_tugas">Periode Tugas Belum Dimulai atau Sudah Selesai</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alamat_sekolah">Jln Darul Qur\'an Jln.Sindang Barang Pengkolan,RT.03/RW02,LOJI,Kec.Bogor.,Kota Bogor Jawa Barat 16117</string>
+    <string name="nomor_telpon">082762628987</string>
+    <string name="rekening_sekolah">9867655545897</string>
+    <string name="nama_bank">BCA</string>
+    <string name="nama_pemegang_bank">Anindita</string>
+    <string name="nama_yayasan">-</string>
+    <string name="nisnnpsn">-</string>
+    <string name="tahun_operasi">-</string>
+    <string name="status_sekolah">-</string>
+    <string name="sk_kelambangan">-</string>
+    <string name="tahun_didirikan">2015</string>
+    <string name="status_tanah">-</string>
+    <string name="luas_tanah">3000 Meter</string>
+    <string name="evadir">Pada menu ini, orang tua maupun siswa dapat memberikan penilaian terkait evaluasi pelayanan dan fasilitas di sekolah. Kirimkan kritik dan saran yang bersifat membangun ya agar bisa diperbaiki lebih baik lagi !</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_ad">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="belajar_ad">ca-app-pub-2778923555987421~2252853239</string>
+    <string name="destiny_ad">ca-app-pub-1910572986729903~9052836972</string>
+    <string name="test1">Test 1</string>
+    <string name="test2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="test3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="loreum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string-array name="Izin">
+        <item>Sakit Istirahat Dirumah</item>
+        <item>Izin Dengan Surat Dokter</item>
+        <item>Izin Istirahat Dirumah</item>
+        <item>Izin Dengan Alasan Lain</item>
+    </string-array>
+    <string-array name="SuratPendidikan">
+        <item>PDF</item>
+        <item>ARtikel</item>
+    </string-array>
+    <string-array name="KebutuhanKhusus">
+        <item>Tidak</item>
+        <item>Ya</item>
+    </string-array>
+    <string-array name="Language">
+        <item>Indonesia</item>
+        <item>Sunda</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Basque</item>
+        <item>Bengali</item>
+        <item>Portuguese</item>
+        <item>Bulgarian</item>
+        <item>Filipino</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Kannada</item>
+        <item>Korean</item>
+        <item>Russian</item>
+        <item>Chinese</item>
+        <item>Spanish</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Vietnamese</item>
+    </string-array>
+</resources>
